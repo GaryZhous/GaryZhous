@@ -1,4 +1,4 @@
-### Hi there, I'm Gary!👨🏻‍💻
+### Hi there, This is Gary!👨🏻‍💻
 
 I'm a current engineering student at University of Toronto! As a big fan of science I have a vast range of interests and coding is one of them!
 
