@@ -25,4 +25,5 @@ Mainly coding in python and C and having some experiences in C++ and web design,
 <br />
 
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garyzhous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
