@@ -25,4 +25,4 @@ Mainly coding in python and C and having some experiences in C++ and web design,
 <br />
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryZhous&show_icons=true&theme=transparent)
+
