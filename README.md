@@ -25,4 +25,7 @@ Mainly coding in python and C and having some experiences in C++ and web design,
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryZhous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<blockquote> 
+  "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown." </br>"Never explain anything." "Horrors, I believe, should be original--the use of common myths and legends being a weakening influence."
+  
+</blockquote>
