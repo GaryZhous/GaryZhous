@@ -28,3 +28,10 @@ Mainly coding in python and C and having some experiences in C++ and web design,
   "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown." </br>"Never explain anything." </br>"Horrors, I believe, should be original--the use of common myths and legends being a weakening influence."
   
 </blockquote>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=GaryZhous&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GaryZhous&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryZhous&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GaryZhous&icon=0&color=0)](https://visitcount.itsvg.in)
