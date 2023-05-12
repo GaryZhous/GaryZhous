@@ -1,7 +1,7 @@
 ### Hi there, This is Gary!👨🏻‍💻
 
 I'm a current engineering student at University of Toronto! As a big fan of science I have a vast range of interests and coding is one of them!
-Mainly coding in python and C and having some experiences in C++ and web design, I am learning more and exploring more 🤖
+Mainly coding in python and C/C++ and web design, I am learning more and exploring more 🤖
 ### Current status✍️
 
 - Marketing associate at ACE UofT
