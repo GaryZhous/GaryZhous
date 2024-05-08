@@ -5,7 +5,7 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 ### Current status✍️
 
 - Marketing associate at ACE UofT
-- Ocassionally a web dev :)
+- Now a web dev :)
 - IEEE student member
 - Surviving University :(
 - Doing fun little projects with friends!
