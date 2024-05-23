@@ -9,7 +9,7 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 - IEEE student member
 - Surviving University :(
 - Doing fun little projects with friends!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyzhous&theme=dark&show_icons=true)
 ### Languages and Tools🔭:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
