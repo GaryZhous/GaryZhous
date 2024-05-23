@@ -23,4 +23,4 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 <br />
 
 ---
-<a href="https://github.com/garyzhous"><img alt="Gary Zhou's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=garyzhous&show_icons=true&count_private=true&theme=light&hide=prs" /></a>
+![garyzhous's Stats](https://github-readme-stats.vercel.app/api?username=garyzhous&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
