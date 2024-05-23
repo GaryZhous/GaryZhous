@@ -9,7 +9,6 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 - IEEE student member
 - Surviving University :(
 - Doing fun little projects with friends!
-![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyzhous&theme=dark&show_icons=true)
 ### Languages and Tools🔭:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -28,3 +27,5 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
   "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown." </br>"Never explain anything." </br>"Horrors, I believe, should be original--the use of common myths and legends being a weakening influence."
   
 </blockquote>
+---
+![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyzhous&theme=dark&show_icons=true)
