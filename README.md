@@ -22,7 +22,7 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg" />
 <br />
 <br />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ---
 <blockquote> 
   "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown." </br>"Never explain anything." </br>"Horrors, I believe, should be original--the use of common myths and legends being a weakening influence."
