@@ -23,4 +23,4 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 <br />
 
 ---
-<a href="https://github.com/garyzhous"><img alt="Gary Zhou's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=garyzhous&show_icons=true&count_private=true&theme=light&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/garyzhous"><img alt="Gary Zhou's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=garyzhous&show_icons=true&count_private=true&theme=light" height="192px" width="49.5%"/></a>
