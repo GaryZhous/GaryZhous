@@ -28,4 +28,4 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
   "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown." </br>"Never explain anything." </br>"Horrors, I believe, should be original--the use of common myths and legends being a weakening influence."
   
 </blockquote>
-![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryZhous&show_icons=true&theme=transparent)
+![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyzhous&show_icons=true&theme=transparent)
