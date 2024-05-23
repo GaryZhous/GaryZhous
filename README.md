@@ -22,4 +22,5 @@ Mainly coding in python and C/C++, I am learning more and exploring more 🤖
 <br />
 <br />
 
+---
 ![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyzhous&theme=light&show_icons=true)
