@@ -23,4 +23,4 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 <br />
 
 ---
-![garyzhous's Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=garyzhous&theme=default&show_icons=true&hide_border=false&count_private=true&hide=prs)
+![garyzhous's Stats](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=garyzhous&hide_progress=trues)
