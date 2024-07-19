@@ -25,7 +25,7 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 ---
 <div align="center">
   
-  <img src="https://github-readme-stats-jd.vercel.app/api/top-langs/?username=GaryZhous&layout=compact&count_private=true&hide=pascal,php,html&langs_count=8&layout=donut" height="200"></img>
+  <img src="https://github-readme-stats-jd.vercel.app/api/top-langs/?username=GaryZhous&layout=donut&count_private=true&hide=pascal,php,html&langs_count=8" height="200"></img>
   <img src="https://streak-stats.demolab.com?user=GaryZhous&fire=EB5454&card_width=360" height="200"></img>
 
 </div>
