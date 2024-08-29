@@ -7,9 +7,9 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 ### Current status✍️
 
 - Marketing associate at ACE UofT
-- Now a web dev :)
+- Now a backend developer :)
 - IEEE student member
-- Surviving University :(
+- Surviving University (3rd year):(
 - Doing fun little projects with friends!
 ### Languages and Tools🔭:
 
