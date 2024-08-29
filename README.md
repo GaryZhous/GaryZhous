@@ -6,9 +6,8 @@ I'm a current engineering student at University of Toronto! As a big fan of scie
 Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 ### Current status✍️
 
-- Marketing associate at ACE UofT
+- IEEE & ACM student member
 - Now a backend developer :)
-- IEEE student member
 - Surviving University (3rd year):(
 - Doing fun little projects with friends!
 ### Languages and Tools🔭:
