@@ -21,6 +21,7 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg" />
+<img align="left" alt="docker" width="30px" style="padding-right:10px;" src= "https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
 <br />
 <br />
 
