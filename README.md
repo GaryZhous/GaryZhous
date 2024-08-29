@@ -22,7 +22,7 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg" />
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src= "https://icongr.am/devicon/docker-original-wordmark.svg" />
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src= "https://icongr.am/devicon/mysql-original-wordmark.svg" />
+<img align="left" alt="k8s" width="30px" style="padding-right:10px;" src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-plain.svg" />
 <br />
 <br />
 
