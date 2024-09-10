@@ -32,6 +32,6 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 ---
 <div align="left">
   
-   <img src="https://github-readme-stats.vercel.app/api?username=GaryZhous&hide=prs&card_width=360" height="200"></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=GaryZhous&hide=prs" width = 360 height="200"></img>
   <img src="https://streak-stats.demolab.com?user=GaryZhous&fire=EB5454&card_width=360" height="200"></img>
 </div>
