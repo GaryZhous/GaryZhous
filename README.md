@@ -32,6 +32,6 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 ---
 <div align="left">
   
-   ![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryZhous&hide=contribs,prs&card_width=360)
+   ![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryZhous&hide=contribs,prs&card_width=360&card_height=200)
   <img src="https://streak-stats.demolab.com?user=GaryZhous&fire=EB5454&card_width=360" height="200"></img>
 </div>
