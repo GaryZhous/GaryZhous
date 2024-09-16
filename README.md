@@ -8,7 +8,7 @@ Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 
 - IEEE & ACM student member
 - Now a backend developer :)
-- Surviving University (3rd year) :(
+- Surviving University (3rd year)
 - Doing fun little projects with friends!
 ### Languages and Tools🔭:
 
