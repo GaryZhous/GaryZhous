@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GaryZhous&color=green)
 
-I'm a current engineering student at University of Toronto! As a big fan of science I have a vast range of interests and coding is one of them!
+I'm a computer engineering student at University of Toronto! As a big fan of science I have a vast range of interests and coding is one of them!
 Mainly coding in Java and C/C++, I am learning more and exploring more 🤖
 ### Current status✍️
 
