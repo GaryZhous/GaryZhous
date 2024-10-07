@@ -7,7 +7,7 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 ### Current status✍️
 
 - IEEE & ACM student member
-- Now a part-time backend software developer :)
+- Now a part-time software developer :)
 - Surviving University (3rd year)
 - Doing fun little projects with friends!
 ### Languages and Tools🔭:
