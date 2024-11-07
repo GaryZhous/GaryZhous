@@ -33,5 +33,5 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 <div align="left">
   
    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GaryZhous&layout=donut&exclude_repo=StarWrap,Pong,MakeUofT" height="200"></img>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  ![Gary's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=GaryZhous&show_icons=true&hide=prs,contribs&theme=transparent)
 </div>
