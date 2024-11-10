@@ -7,9 +7,9 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 ### Current status✍️
 
 - IEEE student member
+- Incoming IBMer🐝
 - Now a part-time software developer :)
 - Surviving University (3rd year)
-- Incoming IBMer🐝
 ### Languages and Tools🔭:
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
