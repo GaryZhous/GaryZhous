@@ -6,7 +6,7 @@ I'm a computer engineering student at University of Toronto! As a big fan of sci
 Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 ### Current status✍️
 
-- CNCF member
+- Cloud Native Community member
 - Incoming IBMer🐝
 - Now a part-time software developer :)
 - Surviving University (3rd year)
