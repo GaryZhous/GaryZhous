@@ -33,5 +33,5 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 <div align="left">
   
    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GaryZhous&layout=donut&exclude_repo=StarWrap,Pong,MakeUofT" height="200"></img>
-   <img src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=GaryZhous&show_icons=true&theme=transparent"></img>
+   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=GaryZhous&show_icons=true&theme=radical&include_all_commits=true&count_private=true"></img>
 </div>
