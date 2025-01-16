@@ -15,7 +15,7 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30px" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/go-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/go-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
