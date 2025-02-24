@@ -8,7 +8,6 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 
 - IEEE stduent member
 - Incoming IBMer🐝
-- Now a part-time software developer :)
 - Hackathon mentor
 - Surviving University (3rd year)
 ### Languages and Tools🔭:
