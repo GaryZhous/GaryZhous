@@ -7,7 +7,6 @@ Mainly coding in Java and C/C++, I am exploring more and learning more🤖
 ### Current status✍️
 
 - IEEE stduent member
-- Incoming @ Block⏹️
 - Hackathon mentor
 - Surviving University (3rd year)
 ### Languages and Tools🔭:
