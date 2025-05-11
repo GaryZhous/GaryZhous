@@ -15,10 +15,10 @@ Mainly coding in Java and C++, I am exploring more and learning more🤖
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/go-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src= "https://icongr.am/devicon/docker-original-wordmark.svg" />
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="k8s" width="30px" style="padding-right:10px;" src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-plain.svg" />
