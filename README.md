@@ -5,7 +5,7 @@
 I'm a computer engineering student at University of Toronto! As a science fan, I have a vast range of interests and coding is one of them!
 Mainly coding in Java and C++, I am exploring more and learning more🤖
 ### Current status✍️
-- IEEE student member
+- SWE Intern @ Square (Block)
 - Hackathon mentor
 - Surviving University (Final year!)
 ### Languages and Tools🔭:
