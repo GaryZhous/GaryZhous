@@ -1,5 +1,5 @@
 ### Hi there, This is Gary!👨🏻‍💻
-
+<img alt="Night Coding" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5MjM4MDYsIm5iZiI6MTc0ODkyMzUwNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDA0MDUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmZDUyMDhhNDZlYTlhZWYzYjYyNDliMDNkOGU1MmQwMjc4ZWZlMDY5NTBlNzA1Njg4NmExMmY1ODM4MmZlNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SUukgbO3ZlfFGd3OTV-xAE-AnfzwJYf23v9wT3sKCu0" align="right"/>
 ![](https://komarev.com/ghpvc/?username=GaryZhous&color=green)
 
 I'm a computer engineering student at University of Toronto! As a science fan, I have a vast range of interests and coding is one of them!
