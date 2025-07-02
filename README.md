@@ -10,7 +10,7 @@ Mainly coding in Java and C++, I am exploring more and learning more🤖
 ### Languages and Tools🔭:
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt= "C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30px" style="padding-right:10px;" />
+<img align="left" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30px" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/go-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />
