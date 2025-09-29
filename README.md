@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=GaryZhous&color=green)
 
 I'm a computer engineering student at University of Toronto! As a science fan, I have a vast range of interests and coding is one of them!
-Mainly coding in Go and C++, I am exploring more and learning more🤖
+Mainly coding in Go and C++, I am exploring more and learning more 🤖
 ### Current status✍️
 - Part-time rustacean 🦀
-- Casual embedded systems lover
+- Casual embedded systems lover 💻
 - Hackathon mentor
 - Surviving University (Final year!)
 ### Languages and Tools🔭:
