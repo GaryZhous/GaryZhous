@@ -4,7 +4,6 @@
 I'm a computer engineering student at University of Toronto! As a science fan, I have a vast range of interests and coding is one of them!
 Mainly coding in Go and C++, I am exploring more and learning more 🤖
 ### Current status✍️
-- Building AI agent ⚙️
 - Casual embedded systems lover 💻
 - Hackathon mentor
 - Surviving University (Final year!)
