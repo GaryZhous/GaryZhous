@@ -1,7 +1,7 @@
 ### Hi there, This is Gary!👨🏻‍💻
 ![](https://komarev.com/ghpvc/?username=GaryZhous&color=green)
 
-I'm a software engineer whose focus is mainly infrastructure and distributed systems. As a science fan, I have a vast range of interests and coding is one of them!
+I'm a software engineer focusing on infrastructure and distributed systems. As a science fan, I have a vast range of interests and coding is one of them!
 Mainly coding in C++ and Go, I am exploring more and learning more 🤖
 ### Current status✍️
 - Casual embedded systems lover ⚙️
