@@ -5,7 +5,7 @@ I'm a software engineer focusing on infrastructure and distributed systems. I ha
 Mainly coding in C++ and Go, I am exploring more and learning more 🤖
 ### Current status✍️
 - Casual embedded systems lover ⚙️
-- Hackathon mentor
+- Graduated uni!
 - Building agentic tools for small businesses!
 ### Languages and Tools🔭:
 
