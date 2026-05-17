@@ -26,7 +26,6 @@ Mainly coding in C++ and Go, I am exploring more and learning more 🤖
 <img align="left" alt="gitlab" width="30px" style="padding-right:10px;" src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src= "https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
 <br />
-<br />
 
 ---
 <div align="left">
