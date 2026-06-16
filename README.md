@@ -5,7 +5,7 @@ I'm a software engineer focusing on backend and distributed systems. I have a va
 Mainly coding in C++ and Go, I am exploring more and learning more 😎
 ### Current status✍️
 - Casual embedded systems lover ⚙️
-- Building agentic tools 🤖
+- Working... 😥
 - blogging 📝
 ### Languages and Tools🔭:
 
