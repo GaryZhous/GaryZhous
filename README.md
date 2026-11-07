@@ -29,6 +29,6 @@ Mainly coding in C++ and Go, I am exploring more and learning more 😎
 ---
 <div align="left">
   
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GaryZhous&layout=donut&exclude_repo=Pong,MakeUofT,SnakeRobot,SpringBootExample" height="200"></img>
+   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GaryZhous&layout=donut&hide=javascript,Verilog,C)](https://github.com/stats-organization/github-stats-extended)
    [![Gary's GitHub stats](https://github-stats-extended.vercel.app/api?username=GaryZhous&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 </div>
